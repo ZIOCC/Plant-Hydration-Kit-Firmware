@@ -1,5 +1,4 @@
-# Plant-Hydration-Kit-Firmware
-
+# Plant-Hydration-Kit
 
 This kit includes a soil moisture sensor, IoT brain Psyfi32 (EPS32 based), a motor driver and a water pump. It is intelligent enough to read your plant's moisture rate when it needs the H2O boost, and sufficiently waters your plant at the right time and moisture level! 
 
